@@ -4,5 +4,5 @@ stage = new ionejs.Stage({
     fillStyle: 'rgba(244, 244, 244, 1)',
     hitable: true,
     debug: true,
-    fpslimit: 60
+    fpslimit: 30
 });
