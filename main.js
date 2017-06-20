@@ -1,5 +1,5 @@
 ionejs = require('ionejs');
-stage = new ionejs.ones.Stage({
+stage = new ionejs.Stage({
     id: 'app',
     fillStyle: 'rgba(244, 244, 244, 1)',
     hitable: true,
