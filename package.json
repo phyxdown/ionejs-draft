@@ -1,10 +1,10 @@
 {
-  "name": "nephele-workbench",
-  "version": "1.0.0",
-  "description": "h5 image editor with nephele service bundle",
+  "name": "ionejs-draft",
+  "version": "0.0.1",
+  "description": "quick start of ionejs",
   "repository": {
     "type": "git",
-    "url": "http://git.dev.sh.ctripcorp.com/Framework/nephele-workbench.git"
+    "url": "https://github.com/phyxdown/ionejs-draft.git"
   },
   "dependencies": {
     "ionejs": "latest"
